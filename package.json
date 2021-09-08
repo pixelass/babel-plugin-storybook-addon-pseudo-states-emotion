@@ -1,0 +1,44 @@
+{
+  "name": "babel-plugin-storybook-addon-pseudo-states-emotion",
+  "version": "0.2.1",
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "emotion",
+    "storybook"
+  ],
+  "scripts": {
+    "release": "yarn standard-version",
+    "release:rc": "yarn standard-version --prerelease rc",
+    "standard-version": "npx standard-version@9.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/dekk-app/babel-plugin-storybook-addon-pseudo-states-emotion/issues"
+  },
+  "homepage": "https://github.com/dekk-app/babel-plugin-storybook-addon-pseudo-states-emotion",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekk-app/babel-plugin-storybook-addon-pseudo-states-emotion.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Gregor Adams",
+    "email": "greg@pixelass.com"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.14.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.15.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
