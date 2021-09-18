@@ -1,6 +1,6 @@
 const syntaxJsx = require("@babel/plugin-syntax-jsx").default;
 
-const pattern = /&:(hover|active|focus-within|focus-visible|focus|visited)/g;
+const pattern = /&:(hover|active|invalid|checked|focus-within|focus-visible|focus|visited)/g;
 
 /**
  *
