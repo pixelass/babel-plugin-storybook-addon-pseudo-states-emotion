@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.3](https://github.com/dekk-app/babel-plugin-storybook-addon-pseudo-states-emotion/compare/v0.2.2...v0.2.3) (2021-09-18)
+
+
+### Features
+
+* add invalid, checked ([e5991c3](https://github.com/dekk-app/babel-plugin-storybook-addon-pseudo-states-emotion/commit/e5991c3f845a2fc8d2ec82858c01496880769306))
+
 ### 0.2.2 (2021-09-11)
 
 
