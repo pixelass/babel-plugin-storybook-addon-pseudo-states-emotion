@@ -27,7 +27,7 @@ yarn add babel-plugin-storybook-addon-pseudo-states-emotion --dev
 
 ## Options
 
-This plugin allows some configuration to support the certain features of
+This plugin allows some configuration to support certain features of
 [storybook-addon-pseudo-states](https://github.com/Ergosign/storybook-addon-pseudo-states)
 
 ```json
@@ -39,6 +39,19 @@ This plugin allows some configuration to support the certain features of
   ]]
 }
 ```
+
+## Supported states:
+
+This plugin currently supports the following states:
+
+* active
+* checked
+* focus
+* focus-visible
+* focus-within
+* hover
+* invalid
+* visited
 
 Copyright © 2021 Dekk. All rights reserved.
 
